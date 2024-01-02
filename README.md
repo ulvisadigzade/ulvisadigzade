@@ -1,1 +1,1 @@
-# Ulvi Sadigzade👒
+# Ulvi Sadigzade

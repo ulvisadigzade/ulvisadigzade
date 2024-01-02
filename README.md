@@ -1,3 +1,3 @@
 # Ulvi Sadigzade
 
-**'Data Science/Machine Learning studen|Competetive Programmer'**
+**`Data Science/Machine Learning studen|Competetive Programmer`'**;

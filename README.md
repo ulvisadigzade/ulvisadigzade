@@ -18,3 +18,5 @@ Hi, I'm Ulvi. I'm an IT student with a strong background in competitive programm
 - Learn by doing and writing better code over time  
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvisadigzade&show_icons=true&theme=radical)

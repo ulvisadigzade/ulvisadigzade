@@ -2,12 +2,19 @@
 
 **`Software Engineer/Competitive Programmer`**
 
-<p align="left">
+Hi, I'm Ulvi. I'm an IT student with a strong background in competitive programming (NEERC finalist) and currently learning software engineering principles to build clean, maintainable systems.
 
-<a href="https://linkedin.com/in/ulvi-sadigzade">
-    <img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="135"/>
-</a>
+- 🧠 Competitive programmer with experience in ICPC-style contests  
+- 💻 Interested in backend development and clean code practices  
+- 🛠️ Mostly work with Java, C++ and a bit of Python  
+- 💡 Enjoy experimenting with unusual ideas and building weird side projects from time to time.
 
-</p>
+---
 
--------
+### 📌 Goals
+
+- Improve as a software engineer  
+- Build useful projects and contribute to open source  
+- Learn by doing and writing better code over time  
+
+---

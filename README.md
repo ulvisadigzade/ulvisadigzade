@@ -19,4 +19,4 @@ Hi, I'm Ulvi. I'm an IT student with a strong background in competitive programm
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvisadigzade&show_icons=true&theme=radical)
+![Ulvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvisadigzade&show_icons=true&theme=radical)

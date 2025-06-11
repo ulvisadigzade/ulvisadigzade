@@ -18,7 +18,4 @@ Hi, I'm Ulvi. I'm an IT student with a strong background in competitive programm
 - Learn by doing and writing better code over time  
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulvisadigzade&show_icons=true&theme=radical" width="40%" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulvisadigzade&layout=compact&langs_count=10&theme=radical" width="40%" height="200" />
-</p>
+![Ulvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvisadigzade&show_icons=true&theme=radical)

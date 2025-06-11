@@ -1,6 +1,6 @@
 # Ulvi Sadigzade
 
-**`Competetive Programmer`**
+**`Competitive Programmer`**
 
 <p align="left">
 
